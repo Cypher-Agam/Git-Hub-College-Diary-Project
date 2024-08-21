@@ -1,0 +1,27 @@
+html{
+    background-color: #EDE8F5;
+}
+div{
+    text-align: center;
+}
+#div1{
+    display: inline-block
+    
+}
+h1{
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    background-color: #8697C4;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 19px;
+}
+img{
+    float: left;
+}
+p{
+    font-family: "Dancing Script", cursive;
+    font-weight: bolder;
+    font-size: larger;
+    margin-top: 15%;
+}
+
